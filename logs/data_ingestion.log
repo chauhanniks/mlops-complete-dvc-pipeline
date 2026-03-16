@@ -9,3 +9,11 @@
 2026-03-14 17:04:42,875 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/chauhanniks/mlops-complete-dvc-pipeline/refs/heads/main/experiments/spam.csv
 2026-03-14 17:04:42,881 - data_ingestion - DEBUG - Data preprocessing completed
 2026-03-14 17:04:42,943 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-16 11:16:18,764 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-03-16 11:16:19,658 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/chauhanniks/mlops-complete-dvc-pipeline/refs/heads/main/experiments/spam.csv
+2026-03-16 11:16:19,668 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 11:16:19,719 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-16 11:17:56,542 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-03-16 11:17:56,824 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/chauhanniks/mlops-complete-dvc-pipeline/refs/heads/main/experiments/spam.csv
+2026-03-16 11:17:56,827 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 11:17:56,865 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
